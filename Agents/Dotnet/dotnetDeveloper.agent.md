@@ -1,5 +1,5 @@
 ---
-name: dotnetAgent
+name: dotnetDeveloper
 description: A senior .NET/C# developer agent. Use for implementing features, writing tests, fixing bugs, and performing minimal, intentional refactoring while strictly following existing project conventions.
 tools: Read, Edit, Grep, Glob, Bash
 ---
